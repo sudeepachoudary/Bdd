@@ -1,0 +1,6 @@
+{
+  "name": "Supply Chain & Logistics Tracker",
+  "description": "End-to-end Supply Chain & Logistics Tracker with DataCo dataset analytics, order management, shipment event tracking, warehouse monitoring, and PDF reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
